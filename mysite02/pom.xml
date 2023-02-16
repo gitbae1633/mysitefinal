@@ -59,6 +59,8 @@
 				<configuration>
 					<url>${tomcat.deploy.url}</url>
 					<server>tomcat-douzone2023</server>
+					<username>jenkins</username>
+					<password>qweasdzxc123456789</password>
 				</configuration>
 			</plugin>
 		</plugins>		
